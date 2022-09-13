@@ -1,4 +1,4 @@
-# Visual Sentiment Analysis
+# Twitter Sentiment Analysis
 
 This repo contains the PyTorch-converted models for textual and visual sentiment analysis using different models for each analysis and finding the best model for each analysis.
 
