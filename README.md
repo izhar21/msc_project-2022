@@ -18,7 +18,7 @@ For Visual anlayis:
         2) DenseNet121 model
         3) ResNet50V2 model
         
-        For Further details and setps check the visual_analysis file.
+        For Further details and setps check the visual_analysis.docx file.
         
 Usage:
         
