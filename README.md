@@ -9,7 +9,7 @@ For textual analysis:
         2) Logistic Regression model
         3) Support Vector Machine (SVM)
         
-        For Further details and setps check the textual_analysis file.
+        For Further details and setps check the Textual_Analysis.docx file.
         
 For Visual anlayis:
         
